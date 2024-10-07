@@ -1,1 +1,6 @@
 http://backend.course/#OstapKobe
+http://backend.course/?name="ÐÐ¾Ð±ÐµÐ»ÑÐ½Ð¸Ðº ÐÑÑÐ°Ð¿"&github_name=OstapKobe&group="Ð¤ÐÐ-22Ñ"&subgroup="ÐÑÐ´Ð³ÑÑÐ¿Ð° 2"
+'https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?valcode=JPY&date=20240127&json' -o nbu_response.json
+https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?valcode=JPY&date=20240127&json
+
+
